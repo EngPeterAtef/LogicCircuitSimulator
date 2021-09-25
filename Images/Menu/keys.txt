@@ -1,0 +1,4 @@
+backspace	'\b'  8
+esc		'\x1' 1
+enter		'\r'  13
+
